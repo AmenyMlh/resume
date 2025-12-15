@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    color: red;
+    background-color: black;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.card {
+    background-color: black;
+    height: 300px;
+    width: 100%;
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
+.card .one {
+   
+    height: 200px;
+    width: 350px;
+
+}
+.card .one img {
+    height: 150px;
+    width: 100%;
+
+}
+.card .one p {
+    color: aqua;
+}
+
+.pp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+    height: 23%;
+}
+
+.one {
+    border: greenyellow solid 1px;
+    border-radius: 5%;
+}
